@@ -12,6 +12,7 @@ use Slim\Http\Environment;
  * runs the application. Note that it doesn't cover all use-cases and is
  * tuned to the specifics of this skeleton app, so if your needs are
  * different, you'll need to change it.
+ * Scott test comment
  */
 class BaseTestCase extends \PHPUnit_Framework_TestCase
 {
